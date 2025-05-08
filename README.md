@@ -1,4 +1,12 @@
 ## Hi there 👋
+
+# whoami
+
+I am a software developer focused on backend development, and exploring the intersection of AI and software infrastructure.  
+My day job involves building robust backend systems using Python, Django, and PostgreSQL, with a strong emphasis on performance, scalability, and clean API design.  
+I have hands-on experience with AI-powered systems, including vector databases (PgVector, ChromaDB), retrieval-augmented generation (RAG) pipelines, and prompt-based automation.  
+I'm particularly interested in how large language models (LLMs) and multimodal models are reshaping the future of backend engineering.
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/doganaktarr?theme=dark)
 <!--
 **doanaktar/doanaktar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
